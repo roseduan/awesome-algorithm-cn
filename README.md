@@ -4,12 +4,12 @@
 
 如果你想参与贡献，请参考：
 
-- [Awesome Algorithms](#awesome-algorithms)
+- [awesome-algorithm-cn](#awesome-algorithm-cn)
   - [网站](#网站)
   - [在线课程](#在线课程)
   - [书籍](#书籍)
   - [备忘单](#备忘单)
-  - [Github 仓库](#Github 仓库)
+  - Github 仓库
   - [在线评审](#在线评审)
   - [工具](#工具)
 
