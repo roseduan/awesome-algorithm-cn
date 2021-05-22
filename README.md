@@ -2,8 +2,6 @@
 
 精选了一系列很棒的学习或者练习算法的网址、项目等，受到 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 以及其他 awesome 系列项目的启发。
 
-如果你想参与贡献，请参考：
-
 - [awesome-algorithm-cn](#awesome-algorithm-cn)
   - [网站](#网站)
   - [在线课程](#在线课程)
@@ -88,7 +86,9 @@
 
 ### C#
 
-
+* [classic-algorithms-c-sharp](https://github.com/shkolovy/classic-algorithms-c-sharp) by @shkolovy，使用 C# 实现的经典算法。
+* [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) by @aalhour，标准的数据结构和算法。
+* [Advanced-Algorithms](https://github.com/justcoding121/Advanced-Algorithms) by @justcoding121，100+ 数据结构和算法的例子。
 
 ### Erlang
 
@@ -136,7 +136,10 @@
 
 ## 在线评审
 
+可以从这些网站中练习你学习到的相关知识。
 
+- [A2 Online Judge](https://a2oj.com/) - Online Judge and problem archive.
+- [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/) - Hundreds of problems from previous ACM-ICPC Regionals and World Finals.
 
 ## 工具
 
