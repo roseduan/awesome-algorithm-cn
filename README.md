@@ -57,7 +57,9 @@
 
 ## 书籍
 
-The primary topics are: data structures, graph primitives, and their applications.
+学习算法的一些常见书籍。
+
+
 
 ## 备忘单
 
@@ -69,6 +71,63 @@ The primary topics are: data structures, graph primitives, and their application
 * [Algo Deck](https://github.com/teivah/algodeck/)
 
 ## Github 仓库
+
+一些使用各种编程语言实现算法的仓库。
+
+### C
+
+* [c-algorithms](https://github.com/fragglet/c-algorithms) by @fragglet，一些使用 C 语言实现的常用数据结构及算法。
+* [TheAlgorithms/C](https://github.com/TheAlgorithms/C) by @TheAlgorithms，The Algorithms 系列的 C 语言实现。
+
+### C++
+
+
+
+### C#
+
+
+
+### Erlang
+
+
+
+### Go
+
+
+
+### Java
+
+
+
+### JavaScript
+
+
+
+### Lua
+
+
+
+### Objective-C
+
+
+
+### Python
+
+
+
+### Ruby
+
+
+
+### Scala
+
+
+
+### Swift
+
+
+
+### 语言无关（或多语言）
 
 
 
