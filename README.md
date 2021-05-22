@@ -81,7 +81,10 @@
 
 ### C++
 
-
+* [xtaci/algorithms](https://github.com/xtaci/algorithms) by @xtaci，使用 C++ 实现的数据结构和算法。
+* [PetarV-/Algorithms](https://github.com/PetarV-/Algorithms) by @PetarV-，包含一些高级数据结构和算法。
+* [ProAlgos-Cpp](https://github.com/ProAlgos/ProAlgos-Cpp) by @ProAlogs，C++ 实现的一些知名的算法。
+* [algorithmica-org/implementations](https://github.com/algorithmica-org/implementations) by @algorithmica-org，一些算法的简洁实现。
 
 ### C#
 
