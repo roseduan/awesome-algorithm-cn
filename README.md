@@ -57,7 +57,12 @@
 
 学习算法的一些常见书籍。
 
+### 算法和数据结构
 
+* [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html) - 非常简洁直白的算法分析书籍。
+* [Algorithms](http://algs4.cs.princeton.edu/home/) - 使用 Java 实现的算法示例，良好的实践，可视化教程，带有免费的在线资源。
+* [Algorithms and Data Structures in JavaScript](https://gum.co/dsajs) - 经典的算法和数据结构，由 JavaScript 实现。
+* [Algorithms in a Nutshell](https://www.amazon.com/Algorithms-Nutshell-In-OReilly/dp/059651624X) - 由 George T. Heineman 撰写。
 
 ## 备忘单
 
