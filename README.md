@@ -59,10 +59,20 @@
 
 ### 算法和数据结构
 
+#### 英文
+
 * [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html) - 非常简洁直白的算法分析书籍。
 * [Algorithms](http://algs4.cs.princeton.edu/home/) - 使用 Java 实现的算法示例，良好的实践，可视化教程，带有免费的在线资源。
 * [Algorithms and Data Structures in JavaScript](https://gum.co/dsajs) - 经典的算法和数据结构，由 JavaScript 实现。
 * [Algorithms in a Nutshell](https://www.amazon.com/Algorithms-Nutshell-In-OReilly/dp/059651624X) - 由 George T. Heineman 撰写。
+
+#### 中文
+
+* [算法·第四版](https://book.douban.com/subject/19952400/) - 算法领域的经典书籍，涵盖每位程序员应知应会的 50 种算法。
+* [算法导论](https://book.douban.com/subject/20432061/) - 经典算法书籍，内容丰富、结构合理、逻辑清晰。
+* [大话数据结构](https://book.douban.com/subject/6424904/) - 以趣味的方式叙述数据结构，并引用了各种生活知识来类比。
+* [啊哈！算法](https://book.douban.com/subject/25894685/) - 一本充满智慧和趣味的算法入门书。
+* [算法图解](https://book.douban.com/subject/26979890/) - 示例丰富，图文并茂，以让人容易理解的方式阐释了算法。
 
 ## 备忘单
 
